@@ -1,0 +1,72 @@
+2021-01-03 13:08:21,065 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 13:08:21,066 - test_case.py - [line:56] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 13:08:21,250 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 13:08:21,251 - test_case.py - [line:52] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 13:09:59,721 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 13:09:59,721 - test_case.py - [line:56] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 13:09:59,871 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 13:09:59,871 - test_case.py - [line:52] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 14:48:39,419 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 14:48:39,420 - test_case.py - [line:56] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 14:48:39,768 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 14:48:39,768 - test_case.py - [line:52] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:19:57,355 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:19:57,355 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:19:57,531 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:19:57,532 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:25:33,881 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:25:33,881 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:25:34,067 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:25:34,069 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:26:25,718 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:26:25,719 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:26:25,899 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:26:25,901 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:27:25,704 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:27:25,705 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:27:25,862 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:27:25,863 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:28:45,602 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:28:45,603 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:28:45,809 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:28:45,810 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:29:06,330 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:29:06,330 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:29:06,479 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:29:06,480 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:29:27,784 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:29:27,785 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:29:27,964 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:29:27,965 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:30:45,186 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:30:45,187 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:30:45,353 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:30:45,354 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:31:16,347 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:31:16,349 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:31:16,514 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:31:16,514 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:48:52,509 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:48:52,509 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:48:52,736 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:48:52,737 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:49:29,508 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:49:29,508 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:49:29,703 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:49:29,704 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:50:34,112 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:50:34,113 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:50:34,282 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:50:34,283 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:53:27,781 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:53:27,781 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:53:27,935 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:53:27,935 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:58:42,896 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:58:42,896 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:58:43,057 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:58:43,058 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2021-01-03 23:58:51,953 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:58:51,953 - test_case.py - [line:55] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2021-01-03 23:58:52,108 - test_case.py - [line:39] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2021-01-03 23:58:52,108 - test_case.py - [line:51] - INFO - 断言成功,实际值：未分类 = 预期值：未分类

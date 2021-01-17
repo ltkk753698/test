@@ -1,0 +1,9 @@
+logger:
+  - debug
+  - python
+
+people:
+  age: 18
+  name: litao
+
+

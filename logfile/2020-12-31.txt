@@ -1,0 +1,12 @@
+2020-12-31 23:49:16,678 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2020-12-31 23:49:16,678 - test_case.py - [line:56] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2020-12-31 23:49:16,786 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2020-12-31 23:49:16,786 - test_case.py - [line:52] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2020-12-31 23:51:11,472 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2020-12-31 23:51:11,472 - test_case.py - [line:56] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2020-12-31 23:51:11,560 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2020-12-31 23:51:11,560 - test_case.py - [line:52] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
+2020-12-31 23:54:18,847 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2020-12-31 23:54:18,847 - test_case.py - [line:56] - INFO - 断言成功,预期值：T-4181（测试勿动） 包含于实际值：{"code":200,"message":"OK","visible":false,"paging":{"pageNum":1,"pageSize":1,"total":1},"data":[{"id":4181,"name":"T-4181（测试勿动）","logo":"https://ali-pro-km.udeskcs.com/Data/28480/oss-km-image/scEdPcwztEymaKs6x8BtKypNkyPFXxsc/A441A9AFED1F50D305B721CE44F984E3.png","channelList":[{"robotId":4181,"name":"系统默认场景","type":1,"id":5188,"deleteFlag":0},{"robotId":4181,"name":"测试1","type":2,"id":5189,"deleteFlag":0}],"wechatRecommendationSuffix":null}]}
+2020-12-31 23:54:18,950 - test_case.py - [line:40] - INFO - 断言成功,实际code值：200 = 预期code值：200.0
+2020-12-31 23:54:18,950 - test_case.py - [line:52] - INFO - 断言成功,实际值：未分类 = 预期值：未分类
